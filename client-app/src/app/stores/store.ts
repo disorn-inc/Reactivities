@@ -1,5 +1,5 @@
 import { createContext, useContext } from "react";
-import ActivityStore from "./activityStroe";
+import ActivityStore from "./activityStore";
 
 interface Store {
     activityStore: ActivityStore
