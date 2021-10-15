@@ -30,6 +30,10 @@ body{
   margin-left: 0.5em;
 }
 
+/* .ui.menu {
+  display: flex;
+} */
+
 .masthead h1.ui.header {
   font-size: 4em;
   font-weight: normal;
