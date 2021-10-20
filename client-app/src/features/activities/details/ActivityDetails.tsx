@@ -23,7 +23,7 @@ export default observer(function ActivityDetails() {
 
   return (
     <Grid >
-      <Grid.Column width={10} >
+      <Grid.Column computer={10} mobile={3} tablet={5} >
         <ActivityDetailedHeader activity={activity} />
         <ActivityDetailedInfo activity={activity} />
         <ActivityDetailedChat />
